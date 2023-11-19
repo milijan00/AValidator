@@ -1,0 +1,12 @@
+C:\Users\Aca\Desktop\aleksandar\programiranje\monifesto_projects\AValidation\AValidation.Application\bin\Debug\net6.0\AValidation.Application.deps.json
+C:\Users\Aca\Desktop\aleksandar\programiranje\monifesto_projects\AValidation\AValidation.Application\bin\Debug\net6.0\AValidation.Application.dll
+C:\Users\Aca\Desktop\aleksandar\programiranje\monifesto_projects\AValidation\AValidation.Application\bin\Debug\net6.0\AValidation.Application.pdb
+C:\Users\Aca\Desktop\aleksandar\programiranje\monifesto_projects\AValidation\AValidation.Application\obj\Debug\net6.0\AValidation.Application.csproj.AssemblyReference.cache
+C:\Users\Aca\Desktop\aleksandar\programiranje\monifesto_projects\AValidation\AValidation.Application\obj\Debug\net6.0\AValidation.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aca\Desktop\aleksandar\programiranje\monifesto_projects\AValidation\AValidation.Application\obj\Debug\net6.0\AValidation.Application.AssemblyInfoInputs.cache
+C:\Users\Aca\Desktop\aleksandar\programiranje\monifesto_projects\AValidation\AValidation.Application\obj\Debug\net6.0\AValidation.Application.AssemblyInfo.cs
+C:\Users\Aca\Desktop\aleksandar\programiranje\monifesto_projects\AValidation\AValidation.Application\obj\Debug\net6.0\AValidation.Application.csproj.CoreCompileInputs.cache
+C:\Users\Aca\Desktop\aleksandar\programiranje\monifesto_projects\AValidation\AValidation.Application\obj\Debug\net6.0\AValidation.Application.dll
+C:\Users\Aca\Desktop\aleksandar\programiranje\monifesto_projects\AValidation\AValidation.Application\obj\Debug\net6.0\refint\AValidation.Application.dll
+C:\Users\Aca\Desktop\aleksandar\programiranje\monifesto_projects\AValidation\AValidation.Application\obj\Debug\net6.0\AValidation.Application.pdb
+C:\Users\Aca\Desktop\aleksandar\programiranje\monifesto_projects\AValidation\AValidation.Application\obj\Debug\net6.0\ref\AValidation.Application.dll
