@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace AValidation.Application.Interfaces
 {
-    public interface IValidatable
+    public interface IValidatable<TEntity>
     {
-        public AResult Validate();
+        public AResult Validate(TEntity entity);
 
     }
 }

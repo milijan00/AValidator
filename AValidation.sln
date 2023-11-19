@@ -5,7 +5,12 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AValidation.Application", "AValidation.Application\AValidation.Application.csproj", "{4BAC96B9-73E5-46FB-B0E4-4E14C61661F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AValidation.Tests", "AValidation.Tests\AValidation.Tests.csproj", "{2A67C5C3-0BFA-4650-A5B7-246932240D97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AValidation.Tests", "AValidation.Tests\AValidation.Tests.csproj", "{2A67C5C3-0BFA-4650-A5B7-246932240D97}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{492362BE-B528-417D-B7A9-4016BBC749E2}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

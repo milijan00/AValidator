@@ -7,28 +7,28 @@ using System.Threading.Tasks;
 
 namespace AValidation.Application.Models
 {
-    public class Person : IValidatable
+    public class Person  
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        public AResult Validate()
-        {
-            var result = new AResult();
+        //public AResult Validate()
+        //{
+        //    var result = new AResult();
 
-            if (string.IsNullOrEmpty(FirstName))
-            {
-                result.ValidationFailed("First name must not be null or empty.");
-            }
+        //    if (string.IsNullOrEmpty(FirstName))
+        //    {
+        //        result.ValidationFailed("First name must not be null or empty.");
+        //    }
 
-            if (string.IsNullOrEmpty(LastName))
-            {
-                result.ValidationFailed("Last name must not be null or empty.");
-            }
+        //    if (string.IsNullOrEmpty(LastName))
+        //    {
+        //        result.ValidationFailed("Last name must not be null or empty.");
+        //    }
 
-            result.ValidationSuccessful();
+        //    result.ValidationSuccessful();
 
-            return result;
-        }
+        //    return result;
+        //}
     }
 }

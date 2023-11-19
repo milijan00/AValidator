@@ -33,7 +33,7 @@ namespace AValidation.Application.Models
 
         #region Public Methods
 
-        public void ValidationSuccessful()
+        public void ValidationSuccessfull()
         {
             if(!_errors.Any())
                 this._valid = true;
